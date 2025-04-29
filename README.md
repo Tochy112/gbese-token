@@ -1,4 +1,4 @@
-# ERC20 Token
+# GBESE Token
 
 A simple ERC20 token implementation built with Solidity, Hardhat, and OpenZeppelin contracts.
 
