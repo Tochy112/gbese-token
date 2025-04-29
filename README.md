@@ -34,7 +34,7 @@ GbeseToken (GB) is an ERC20-compliant token deployed on the Ethereum network, Ba
 1. Clone the repository
    ```bash
    git clone <https://github.com/Tochy112/gbese-token.git>
-   cd mytoken
+   cd gbesetoken
    ```
 
 2. Install dependencies
