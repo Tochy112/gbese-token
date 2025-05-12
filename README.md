@@ -46,3 +46,7 @@ GbeseToken (GB) is an ERC20-compliant token deployed on the Ethereum network, Ba
 
 4. Compile using, `npx hardhat compile`
 5. Deploy on testnet, `npx hardhat run scripts/deploy.ts --network baseSepolia`
+
+
+## GBESE CONTRACT ADDRESS
+### `0xEd9f8f397871714feC2B0A1F8B8782E34f0452F4`
